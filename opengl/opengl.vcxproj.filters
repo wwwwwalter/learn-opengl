@@ -16,6 +16,9 @@
     <Filter Include="着色器">
       <UniqueIdentifier>{ae522455-1998-47d6-b337-5734f043f4da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="图片资源">
+      <UniqueIdentifier>{052a3821-ce39-427a-96cd-dc31f66f5a20}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -37,5 +40,13 @@
     <None Include="shader.fs">
       <Filter>着色器</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="code.png">
+      <Filter>图片资源</Filter>
+    </Image>
+    <Image Include="code.jpg">
+      <Filter>图片资源</Filter>
+    </Image>
   </ItemGroup>
 </Project>
