@@ -48,5 +48,14 @@
     <Image Include="code.jpg">
       <Filter>图片资源</Filter>
     </Image>
+    <Image Include="code2.jpg">
+      <Filter>图片资源</Filter>
+    </Image>
+    <Image Include="code2.png">
+      <Filter>图片资源</Filter>
+    </Image>
+    <Image Include="box.png">
+      <Filter>图片资源</Filter>
+    </Image>
   </ItemGroup>
 </Project>
