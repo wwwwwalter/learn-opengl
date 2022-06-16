@@ -145,11 +145,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="camera.h" />
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="model.h" />
     <ClInclude Include="shader.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="light.fs" />
-    <None Include="light.vs" />
     <None Include="shader.fs" />
     <None Include="shader.vs" />
   </ItemGroup>

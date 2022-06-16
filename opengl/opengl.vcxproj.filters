@@ -38,18 +38,18 @@
     <ClInclude Include="camera.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.vs">
       <Filter>着色器</Filter>
     </None>
     <None Include="shader.fs">
-      <Filter>着色器</Filter>
-    </None>
-    <None Include="light.fs">
-      <Filter>着色器</Filter>
-    </None>
-    <None Include="light.vs">
       <Filter>着色器</Filter>
     </None>
   </ItemGroup>

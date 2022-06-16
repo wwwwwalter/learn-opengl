@@ -3,3 +3,4 @@
 * glad
 * stb
 * glm
+* assimp
