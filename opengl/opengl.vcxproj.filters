@@ -69,5 +69,8 @@
     <Image Include="box.png">
       <Filter>图片资源</Filter>
     </Image>
+    <Image Include="box2.png">
+      <Filter>图片资源</Filter>
+    </Image>
   </ItemGroup>
 </Project>

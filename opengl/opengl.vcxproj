@@ -155,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="box.png" />
+    <Image Include="box2.png" />
     <Image Include="code.jpg" />
     <Image Include="code.png" />
     <Image Include="code2.jpg" />
