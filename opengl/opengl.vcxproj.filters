@@ -46,6 +46,12 @@
     <None Include="shader.fs">
       <Filter>着色器</Filter>
     </None>
+    <None Include="light.fs">
+      <Filter>着色器</Filter>
+    </None>
+    <None Include="light.vs">
+      <Filter>着色器</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="code.png">
